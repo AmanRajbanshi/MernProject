@@ -27,6 +27,17 @@ const NavBar = () => {
                 LiveScore
                 </NavLink>
 
+                <NavLink
+                  exact
+                  className="nav-link"
+                  aria-current="page"
+                  to="/registration"
+                  activeClassName="active__nav__link"
+                >
+                Registration
+                </NavLink>
+
+
                 {/* <NavLink
                   exact
                   className="nav-link"
