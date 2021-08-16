@@ -6,15 +6,19 @@ const NewNews = () => {
   return (
     <>
 
-<NewNewsCard />
-<NewNewsCard />
-<NewNewsCard />
+
+
+
 <NewNewsCard />
 <NewNewsCard />
 
 
 
-         </>
+
+
+
+
+         </> 
   );
 };
 
